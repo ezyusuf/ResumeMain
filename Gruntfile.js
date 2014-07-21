@@ -230,7 +230,7 @@ module.exports = function (grunt) {
           },
           pages: {
             options: {
-              remote: 'git@github.com:ezyusuf/ResumeFinal.git',
+              remote: 'git@github.com:ezyusuf/ResumeMain.git',
               branch: 'gh-pages'
             }
           },
